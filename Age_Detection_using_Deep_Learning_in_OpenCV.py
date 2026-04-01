@@ -103,6 +103,6 @@ def process_image(image_path):
     cv2.waitKey(0)  # Wait for a key press
     cv2.destroyAllWindows()  # Close all windows
 # Set the path to the input image
-image_path = "kid2.jpeg"  # Set the path to the input image
+image_path = "kid5.jpg"  # Set the path to the input image
 # Process the input image
 process_image(image_path)  # Process the input image
